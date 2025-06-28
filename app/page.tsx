@@ -34,7 +34,7 @@ export default function Home() {
     {
       name: "WhatsApp",
       icon: <MessageCircle className="h-5 w-5" />,
-      url: "https://wa.link/lqi40s", // Link atualizado
+      url: "https://wa.link/1kcx27", // Link atualizado
       color: "bg-green-500",
     },
   ]
