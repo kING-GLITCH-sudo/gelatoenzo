@@ -7,9 +7,8 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Cloud Linktree",
-  description: "Your social links with a cloud theme",
-    generator: 'v0.dev'
+  title: "Gelato Enzo",
+  description: "Melhor açai de resende",
 }
 
 export default function RootLayout({
